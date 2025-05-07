@@ -1,3 +1,17 @@
+## 🧠 Para que serve este programa?
+
+Este programa tem como objetivo **analisar rapidamente o conteúdo de arquivos `.txt`**, extraindo informações essenciais para escritores, revisores, desenvolvedores e profissionais que lidam com texto no dia a dia. Ele é útil para:
+
+- 📏 **Contar o número total de caracteres** no texto (incluindo espaços).
+- 🧮 **Contar a quantidade de palavras**, útil para metas de escrita ou revisões.
+- 🕒 **Estimar o tempo de fala**, com base em uma média de 130 palavras por minuto — ideal para apresentações, podcasts, vídeos, discursos ou narrações.
+
+Com uma interface simples, tema escuro (dark mode) e execução direta no navegador, você só precisa carregar o arquivo `.txt` para visualizar os resultados instantaneamente — sem precisar instalar nada.
+
+É uma ferramenta leve, prática e eficiente para quem precisa entender e planejar melhor o uso de textos.
+
+## Como utilizar
+
 ### 📄 Carregue o arquivo `.txt`:
 
 1. Clique no botão **"Escolher arquivo"** (ou **"Selecionar arquivo"**, dependendo do navegador).
